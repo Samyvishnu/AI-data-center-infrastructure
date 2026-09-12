@@ -5,6 +5,8 @@ Most documentation hides that. It lists systems in isolation. So I built somethi
 
 An interactive 4D map of AI data center infrastructure:
 
+The link:https://samyvishnu.github.io/AI-data-center-infrastructure/
+
 → A translucent Earth at the center, with the full data center model orbiting around it
 → 9 core disciplines — power, cooling, commissioning, reliability, controls, compute, program management, sustainability — broken into 50 interconnected parameters
 → Every link encodes a real engineering dependency, not just a category: power in ≈ heat out, coolant chemistry → CDU failure modes, warm coolant → free-cooling hours
